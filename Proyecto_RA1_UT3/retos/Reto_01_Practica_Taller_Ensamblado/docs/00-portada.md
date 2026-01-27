@@ -5,4 +5,4 @@
 - Módulo: **Fundamentos de Hardware (1º ASIR)**
 - Unidad: **UT3 — Ensamblado de equipos**
 - Reto: **Reto 01 — Práctica de Taller**
-![Portada][assets/img/00-portada/portada.png]
+![Portada](assets/img/00-portada/portada.png)
